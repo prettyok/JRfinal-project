@@ -1,5 +1,5 @@
 .guitar-hero {
-    background-image: url(/JRfinal-project/blackandwhiteguitar.jpg);
+    background-image: url(/JRfinal-project/img/blackandwhiteguitar.jpg);
     background-repeat: no-repeat;
     background-size:1209px 750px;
     background-position: center;
@@ -9,6 +9,18 @@
     top: 20;
     height: 400px;
 }
-.guitar-hero {
-    margin-top: 70px;
+/*This is the second container*/
+.second-container {
+    height: 500px;
+}
+.red-shirt-photo {
+    background-image: url(/JRfinal-project/img/red-shirt.jpg);
+    height: 200px;  
+}
+.recordings {
+    background-color: #e8e8e8;
+}
+.respond {
+    width: 170;
+    height: 170;
 }
