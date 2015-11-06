@@ -1,11 +1,14 @@
-.purple-sweater-hero {
-    background-image: url(/JRfinal-project/img/jenny-purple-recline-sm.jpg);
+.guitar-hero {
+    background-image: url(/JRfinal-project/blackandwhiteguitar.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
-    background-position: 100%;
+    background-size:1209px 750px;
+    background-position: center;
     color: #fff;
     position: relative;
     overflow: hidden;
     top: 20;
     height: 400px;
+}
+.guitar-hero {
+    margin-top: 70px;
 }
