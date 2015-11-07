@@ -1,17 +1,17 @@
 .guitar-hero {
     background-image: url(/JRfinal-project/img/blackandwhiteguitar.jpg);
-    background-repeat: no-repeat;
+    background-repeat: no-repeat center top scroll;
     background-size: 100% auto;
     background-position: center;
     color: #fff;
     position: relative;
     overflow: hidden;
     top: 20;
-    height: 400px;
+    padding-bottom: 44%;
 }
 
 .btn-success {
-    margin-top: 20px;
+    margin: 20px 10px;
     font-size: 18px;
 }
 .guitar-hero h1 {
@@ -20,14 +20,24 @@
 
 /*This is the second container*/
 .second-container {
-    height: 500px;
-}
-.red-shirt-photo {
-    background-image: url(/JRfinal-project/img/red-shirt.jpg);
-    height: 200px;  
+    height: 200px;
 }
 
-/*This is the section with iamges of CD covers*/
+.red-shirt-photo {
+}
+
+/*This is the section with images of CD covers*/
 .recordings {
     background-color: #e8e8e8;
+}
+.respond {
+    margin-top: 7px;
+}
+h5 {
+    text-align: justify;
+    line-height: 1.5;
+}
+.recordings btn-success {
+    margin-top: 20px;
+    font-size: 18px;
 }
