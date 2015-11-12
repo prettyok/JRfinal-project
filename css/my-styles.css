@@ -38,6 +38,16 @@
     margin-top: 60px;
 }
 
+.overlay {
+   background:transparent; 
+   position:relative; 
+   width:640px;
+   height:450px;
+   top:450px;
+   margin-top:-450px;
+}
+
+
 
 /*This is the second container*/
 
